@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13531524139",
+    "project_id": "jonas-job-timer-flutter",
+    "storage_bucket": "jonas-job-timer-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13531524139:android:b6c6ca034aa74d21878e6e",
+        "android_client_info": {
+          "package_name": "com.example.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13531524139-7ljqk886n0t8umr0ng1hm9kjvvjcgl74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgw7tkUGRhvAj5IGhuuIrq4GkpJMvXGC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13531524139-7ljqk886n0t8umr0ng1hm9kjvvjcgl74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
